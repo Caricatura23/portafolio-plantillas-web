@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sitio-portafolio-web.vercel.app/sitemap.xml

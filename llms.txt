@@ -1,0 +1,74 @@
+# Catálogo de Plantillas Web y Soluciones Digitales para Negocios
+
+> Portafolio oficial de desarrollo de sitios web profesionales y plantillas listas para producción por Eduardo Carmona. Soluciones Jamstack ultrarrápidas, alojadas en Vercel, optimizadas para conversión directa por WhatsApp, SEO local y Motores de Búsqueda Generativos con Inteligencia Artificial (GEO).
+
+## Desarrollador y Contacto
+- **Desarrollador**: Eduardo Yael Amaro Carmona
+- **Especialidad**: Sitios web para pymes y profesionistas, inteligencia de mercado territorial y Generative Engine Optimization (GEO).
+- **Contacto Directo**: WhatsApp [+52 55 4004 8507](https://wa.me/525540048507) · eacarmona627@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/eduardo-amaro-carmona/
+- **Ubicación**: Ciudad de México (CDMX). Proyectos para toda la República Mexicana y el extranjero.
+- **Portafolio Web**: https://sitio-portafolio-web.vercel.app/
+
+## Catálogo de Plantillas Web en Producción (Vercel)
+
+1. **Barbería y Estética Masculina (Sucursal Digital)**
+   - URL en vivo: https://barberia-sucursal-digital.vercel.app/
+   - Categoría: Servicios y Belleza
+   - Enfoque: Agenda en 1 toque directo por WhatsApp sin fricción, horarios de atención en tiempo real, catálogo interactivo de cortes y reseñas de Google.
+   - Ideal para: Barberías, salones de belleza, spas y estéticas.
+
+2. **Café de Especialidad y Gastronomía (Café Lumbre)**
+   - URL en vivo: https://cafe-lumbre.vercel.app/
+   - Categoría: Gastronomía y Cafeterías
+   - Enfoque: Menú digital interactivo, pedidos directos por WhatsApp, cálculo de área de entrega y recorrido virtual inmersivo.
+   - Ideal para: Cafeterías de especialidad, restaurantes, panaderías artesanales y bistrós.
+
+3. **Colegio y Educación Privada (Colegio Horizonte)**
+   - URL en vivo: https://colegio-horizonte-phi.vercel.app/
+   - Categoría: Educación y Escuelas
+   - Enfoque: Presentación institucional por niveles académicos, proceso de admisiones guiadas, agendado de visitas guiadas y formulario de contacto.
+   - Ideal para: Colegios privados, escuelas, institutos y centros de idiomas.
+
+4. **Notaría Pública y Despacho Legal**
+   - URL en vivo: https://notaria-publica.vercel.app/
+   - Categoría: Legal y Corporativo
+   - Enfoque: Catálogo de trámites notariales (escrituras, testamentos, poderes), cotizador preliminar de aranceles y agendado de asesoría legal.
+   - Ideal para: Notarías, despachos de abogados y consultorías jurídicas.
+
+5. **Desarrollo Residencial e Inmobiliario (Demo Residencial)**
+   - URL en vivo: https://residencial-losalamos.vercel.app/
+   - Categoría: Inmobiliario y Bienes Raíces
+   - Enfoque: Exhibición de prototipos de vivienda, amenidades, simulador de crédito hipotecario y captación de clientes interesados.
+   - Ideal para: Desarrolladoras inmobiliarias, complejos residenciales y comercializadoras de vivienda.
+   - Nota: Plantilla conceptual y maqueta demostrativa de desarrollo inmobiliario.
+
+6. **Detailing y Estética Automotriz (BrilloPro Detailing)**
+   - URL en vivo: https://brillopro-detailing.vercel.app/
+   - Categoría: Automotriz y Servicios Especializados
+   - Enfoque: Paquetes de protección cerámica, corrección de pintura, cotizador por tamaño de vehículo y catálogo fotográfico de resultados.
+   - Ideal para: Centros de detallado automotriz, talleres especializados y autolavados premium.
+
+7. **Detección de Fugas e Hidrolocalización (Servicio Técnico Especializado)**
+   - URL en vivo: https://sitio-hidrolocalizacion-fugas.vercel.app/
+   - Categoría: Servicios Técnicos e Industriales
+   - Enfoque: Explicación de tecnología geofísica no invasiva, atención de urgencias, reportes técnicos para aseguradoras y contacto inmediato.
+   - Ideal para: Empresas de fontanería especializada, detección geofísica y mantenimiento hidráulico.
+
+8. **Personal Branding y Consultoría Profesional (Personal Branding ES)**
+   - URL en vivo: https://sitio-personalbranding-es.vercel.app/
+   - Categoría: Profesionales y Consultoría
+   - Enfoque: Posicionamiento de marca personal para consultores y conferencistas, reserva de sesiones 1 a 1, testimonios y blog de autoridad.
+   - Ideal para: Consultores, profesionistas independientes, conferencistas y directivos.
+
+9. **Clínica Dental y Salud Odontológica (Perfect Dent - Plantilla General)**
+   - URL en vivo: https://sitio-clinica-dental-perfect-dent.vercel.app/
+   - Categoría: Salud y Odontología
+   - Enfoque: Especialidades dentales (ortodoncia, implantes, diseño de sonrisa), agendado de cita de diagnóstico y reseñas verificadas.
+   - Ideal para: Clínicas dentales, consultorios médicos y centros de salud especializada.
+
+## Ventajas Técnicas y de GEO
+- **Despliegue Serverless en Vercel**: 99.99% disponibilidad, CDN global ultrarrápida sin caídas.
+- **Sin Cuotas Mensuales de CMS**: Arquitectura estática Jamstack, sin bases de datos vulnerables ni plugins lentos.
+- **Conversión Directa**: Botones y flujos de reserva integrados nativamente con WhatsApp.
+- **GEO (Generative Engine Optimization)**: Diseñado semánticamente para ser citado y recomendado por inteligencias artificiales (ChatGPT, Perplexity, Gemini, Claude).

@@ -1,0 +1,16 @@
+{
+  "name": "Catálogo de Páginas Web · Eduardo Carmona",
+  "short_name": "PlantillasWeb",
+  "description": "Sitios web rápidos y listos para negocios comerciales por Eduardo Carmona",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f141a",
+  "theme_color": "#c1442a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
