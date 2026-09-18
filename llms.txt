@@ -61,11 +61,41 @@
    - Enfoque: Posicionamiento de marca personal para consultores y conferencistas, reserva de sesiones 1 a 1, testimonios y blog de autoridad.
    - Ideal para: Consultores, profesionistas independientes, conferencistas y directivos.
 
-9. **Clínica Dental y Salud Odontológica (Perfect Dent - Plantilla General)**
-   - URL en vivo: https://sitio-clinica-dental-perfect-dent.vercel.app/
-   - Categoría: Salud y Odontología
-   - Enfoque: Especialidades dentales (ortodoncia, implantes, diseño de sonrisa), agendado de cita de diagnóstico y reseñas verificadas.
-   - Ideal para: Clínicas dentales, consultorios médicos y centros de salud especializada.
+9. **Regulación Emocional y Bienestar (Tapping / EFT)**
+   - URL en vivo: https://regulacion-emocional-con-tapping.vercel.app/
+   - Categoría: Salud y Bienestar Emocional
+   - Enfoque: Agendado de sesiones individuales y en línea, programas por objetivo (ansiedad, sueño, estrés) y recursos de bienestar emocional.
+   - Ideal para: Terapeutas de Tapping (EFT), psicólogos con enfoque emocional y coaches de bienestar.
+
+10. **Consultoría Ambiental y Trámites Técnicos (GeoAmbiental)**
+   - URL en vivo: https://eduardocarmona.vercel.app/demo-consultoria-ambiental/
+   - Categoría: Geociencias y Consultoría Técnica
+   - Enfoque: Servicios de trámite explícitos con normativa aplicable, cotización directa por WhatsApp y tono de autoridad regulatoria.
+   - Ideal para: Consultores ambientales, despachos de impacto ambiental y manifestaciones de riesgo.
+
+11. **Geotecnia y Mecánica de Suelos (Suelos & Cimentación)**
+   - URL en vivo: https://eduardocarmona.vercel.app/demo-geotecnia-suelos/
+   - Categoría: Geociencias e Ingeniería Civil
+   - Enfoque: Estudios de mecánica de suelos y cimentaciones con presentación técnica y solicitud de cotización.
+   - Ideal para: Laboratorios de geotecnia, ingenieros civiles y despachos de cimentación.
+
+12. **Hidrogeología y Perforación de Pozos (HidroGeo)**
+   - URL en vivo: https://eduardocarmona.vercel.app/demo-hidrogeologia-pozos/
+   - Categoría: Geociencias y Agua Subterránea
+   - Enfoque: Perforación de pozos, hidrogeología y estudios de agua con enfoque técnico especializado.
+   - Ideal para: Empresas perforadoras de pozos, hidrogeólogos y consultores de agua.
+
+13. **Topografía, SIG y GNSS (TopoGeo)**
+   - URL en vivo: https://eduardocarmona.vercel.app/demo-topografia-sig/
+   - Categoría: Geociencias y Cartografía
+   - Enfoque: Levantamientos topográficos, GNSS y cartografía SIG con servicios detallados.
+   - Ideal para: Despachos topográficos, consultores SIG y empresas de levantamiento de terrenos.
+
+14. **Ortodoncia y Especialista ATM (Dental Especializada)**
+   - URL en vivo: https://sitio-especialista-ortodoncia-atm.vercel.app/
+   - Categoría: Salud y Odontología Especializada
+   - Enfoque: Ortodoncia y especialidades ATM con agendado directo, preguntas frecuentes específicas y diferenciación de consulta.
+   - Ideal para: Ortodoncistas, especialistas en ATM y clínicas dentales especializadas.
 
 ## Ventajas Técnicas y de GEO
 - **Despliegue Serverless en Vercel**: 99.99% disponibilidad, CDN global ultrarrápida sin caídas.
