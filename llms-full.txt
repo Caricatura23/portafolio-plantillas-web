@@ -1,0 +1,125 @@
+# Catálogo de Plantillas Web y Soluciones Digitales para Negocios — Eduardo Carmona (contenido completo)
+
+> Portafolio oficial de desarrollo de sitios web profesionales y plantillas listas para producción por Eduardo Carmona. Soluciones Jamstack ultrarrápidas, alojadas en Vercel, optimizadas para conversión directa por WhatsApp, SEO local y Motores de Búsqueda Generativos con Inteligencia Artificial (GEO). Se adapta cada plantilla a los datos, marca, servicios y número de WhatsApp del cliente.
+
+## Desarrollador y Contacto
+- **Desarrollador**: Eduardo Yael Amaro Carmona
+- **Especialidad**: Sitios web para pymes y profesionistas, inteligencia de mercado territorial y Generative Engine Optimization (GEO).
+- **Contacto Directo**: WhatsApp +52 55 4004 8507 (https://wa.me/525540048507) · eacarmona627@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/eduardo-amaro-carmona/
+- **Ubicación**: Ciudad de México (CDMX). Proyectos para toda la República Mexicana y el extranjero.
+- **Portafolio Web**: https://sitio-portafolio-web.vercel.app/
+
+## Servicios
+1. **Páginas web para negocios** — sitios comerciales de 1 página adaptados a cada giro, con conversión directa a WhatsApp.
+2. **Catálogo de plantillas en vivo** — 14 sitios publicados en Vercel que funcionan como base probada (entrega habitual en 24 a 72 horas).
+3. **SEO local** — canonical, datos estructurados, sitemap, llms.txt y meta etiquetas listas para producción.
+4. **GEO (Generative Engine Optimization)** — optimización semántica para ser citado por ChatGPT, Perplexity, Claude y Gemini.
+5. **Arquitectura Jamstack en Vercel** — velocidad 100/100 en PageSpeed, sin costos mensuales de hosting base.
+6. **Inteligencia territorial** — estudios de zona, competencia y área de captación con datos a nivel AGEB.
+
+## Catálogo de Plantillas Web en Producción (Vercel)
+
+1. **Barbería y Estética Masculina (Sucursal Digital)**
+   - URL en vivo: https://barberia-sucursal-digital.vercel.app/
+   - Categoría: Servicios y Belleza
+   - Enfoque: Agenda en 1 toque directo por WhatsApp, horarios en tiempo real, catálogo de cortes y reseñas de Google.
+   - Ideal para: Barberías, salones de belleza, spas y estéticas.
+
+2. **Café de Especialidad y Gastronomía (Café Lumbre)**
+   - URL en vivo: https://cafe-lumbre.vercel.app/
+   - Categoría: Gastronomía y Cafeterías
+   - Enfoque: Menú digital interactivo, pedidos por WhatsApp, cálculo de área de entrega y recorrido virtual.
+   - Ideal para: Cafeterías de especialidad, restaurantes, panaderías y bistrós.
+
+3. **Colegio y Educación Privada (Colegio Horizonte)**
+   - URL en vivo: https://colegio-horizonte-phi.vercel.app/
+   - Categoría: Educación y Escuelas
+   - Enfoque: Presentación institucional por niveles, admisiones guiadas, visitas agendadas y contacto.
+   - Ideal para: Colegios privados, escuelas, institutos y centros de idiomas.
+
+4. **Notaría Pública y Despacho Legal**
+   - URL en vivo: https://notaria-publica.vercel.app/
+   - Categoría: Legal y Corporativo
+   - Enfoque: Catálogo de trámites notariales, cotizador preliminar de aranceles y asesoría agendada.
+   - Ideal para: Notarías, despachos de abogados y consultorías jurídicas.
+
+5. **Desarrollo Residencial e Inmobiliario**
+   - URL en vivo: https://residencial-losalamos.vercel.app/
+   - Categoría: Inmobiliario y Bienes Raíces
+   - Enfoque: Prototipos de vivienda, amenidades, simulador de crédito hipotecario y captación.
+   - Ideal para: Desarrolladoras inmobiliarias y comercializadoras de vivienda.
+   - Nota: Plantilla conceptual y maqueta demostrativa.
+
+6. **Detailing y Estética Automotriz (BrilloPro Detailing)**
+   - URL en vivo: https://brillopro-detailing.vercel.app/
+   - Categoría: Automotriz y Servicios Especializados
+   - Enfoque: Protección cerámica, corrección de pintura, cotizador por tamaño de vehículo y galería de resultados.
+   - Ideal para: Centros de detallado, talleres especializados y autolavados premium.
+
+7. **Detección de Fugas e Hidrolocalización**
+   - URL en vivo: https://sitio-hidrolocalizacion-fugas.vercel.app/
+   - Categoría: Servicios Técnicos e Industriales
+   - Enfoque: Tecnología geofísica no invasiva, urgencias 24/7, reportes para aseguradoras y contacto inmediato.
+   - Ideal para: Fontanería especializada, detección geofísica y mantenimiento hidráulico.
+
+8. **Personal Branding y Consultoría Profesional**
+   - URL en vivo: https://sitio-personalbranding-es.vercel.app/
+   - Categoría: Profesionales y Consultoría
+   - Enfoque: Posicionamiento de marca personal, reserva de sesiones 1 a 1, testimonios y autoridad.
+   - Ideal para: Consultores, profesionistas independientes, conferencistas y directivos.
+
+9. **Regulación Emocional y Bienestar (Tapping / EFT)**
+   - URL en vivo: https://regulacion-emocional-con-tapping.vercel.app/
+   - Categoría: Salud y Bienestar Emocional
+   - Enfoque: Sesiones individuales y en línea, programas por objetivo (ansiedad, sueño, estrés) y recursos.
+   - Ideal para: Terapeutas de Tapping (EFT), psicólogos y coaches de bienestar.
+
+10. **Consultoría Ambiental y Trámites Técnicos (GeoAmbiental)**
+    - URL en vivo: https://eduardocarmona.vercel.app/demo-consultoria-ambiental/
+    - Categoría: Geociencias y Consultoría Técnica
+    - Enfoque: Trámites con normativa aplicable, cotización por WhatsApp y autoridad regulatoria.
+    - Ideal para: Consultores ambientales y despachos de impacto ambiental.
+    - Nota: Demo de sector, página no indexada.
+
+11. **Geotecnia y Mecánica de Suelos**
+    - URL en vivo: https://eduardocarmona.vercel.app/demo-geotecnia-suelos/
+    - Categoría: Geociencias e Ingeniería Civil
+    - Enfoque: Mecánica de suelos y cimentaciones con presentación técnica y cotización.
+    - Ideal para: Laboratorios de geotecnia, ingenieros civiles y despachos de cimentación.
+    - Nota: Demo de sector, página no indexada.
+
+12. **Hidrogeología y Perforación de Pozos (HidroGeo)**
+    - URL en vivo: https://eduardocarmona.vercel.app/demo-hidrogeologia-pozos/
+    - Categoría: Geociencias y Agua Subterránea
+    - Enfoque: Perforación de pozos, hidrogeología y estudios de agua.
+    - Ideal para: Empresas perforadoras, hidrogeólogos y consultores de agua.
+    - Nota: Demo de sector, página no indexada.
+
+13. **Topografía, SIG y GNSS (TopoGeo)**
+    - URL en vivo: https://eduardocarmona.vercel.app/demo-topografia-sig/
+    - Categoría: Geociencias y Cartografía
+    - Enfoque: Levantamientos topográficos, GNSS y cartografía SIG.
+    - Ideal para: Despachos topográficos, consultores SIG y empresas de levantamiento de terrenos.
+    - Nota: Demo de sector, página no indexada.
+
+14. **Ortodoncia y Especialista ATM (Dental Especializada)**
+    - URL en vivo: https://sitio-especialista-ortodoncia-atm.vercel.app/
+    - Categoría: Salud y Odontología Especializada
+    - Enfoque: Ortodoncia y ATM con agendado directo y preguntas frecuentes específicas.
+    - Ideal para: Ortodoncistas, especialistas en ATM y clínicas dentales especializadas.
+
+## Horario y disponibilidad
+- Respuesta rápida en horario comercial mexicano (CDMX).
+- Entrega ágil y personalizada: la adaptación típica de una plantilla toma de 24 a 72 horas con datos del cliente.
+
+## Cómo cotizar
+1. Elegir el giro o plantilla del catálogo que aplique al negocio.
+2. Enviar un mensaje por WhatsApp con el giro y los datos del negocio (nombre, ciudad y teléfono).
+3. Configuración de datos, marca y número; verificación local y publicación en Vercel.
+
+## Ventajas Técnicas y de GEO
+- **Despliegue Serverless en Vercel**: 99.99% disponibilidad, CDN global ultrarrápida sin caídas.
+- **Sin Cuotas Mensuales de CMS**: arquitectura estática Jamstack, sin bases de datos vulnerables ni plugins lentos.
+- **Conversión Directa**: botones y flujos de reserva integrados con WhatsApp.
+- **GEO (Generative Engine Optimization)**: diseñado semánticamente para ser citado por inteligencias artificiales (ChatGPT, Perplexity, Gemini, Claude).

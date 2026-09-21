@@ -1,0 +1,52 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+Disallow: /demo-
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /demo-
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /demo-
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /demo-
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /demo-
+
+User-agent: Claude-User
+Allow: /
+Disallow: /demo-
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /demo-
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /demo-
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /demo-
+
+User-agent: Bytespider
+Allow: /
+Disallow: /demo-
+
+User-agent: cohere-ai
+Allow: /
+Disallow: /demo-
+
+User-agent: Amazonbot
+Allow: /
+Disallow: /demo-
+
+Sitemap: https://sitio-portafolio-web.vercel.app/sitemap.xml
